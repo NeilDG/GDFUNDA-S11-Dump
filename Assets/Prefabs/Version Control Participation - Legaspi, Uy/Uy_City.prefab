@@ -46730,7 +46730,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2835585986722590903}
   m_Layer: 0
-  m_Name: Uy City
+  m_Name: Uy_City
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
