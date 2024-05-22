@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 8}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 150}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 113
+  controlID: 130
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -366,9 +366,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1c890000
-    m_LastClickedID: 35100
-    m_ExpandedIDs: 00000000c68800001a8900002889000000ca9a3b
+    m_SelectedIDs: f6950000
+    m_LastClickedID: 38390
+    m_ExpandedIDs: 00000000a495000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -397,7 +397,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000c6880000
+    m_ExpandedIDs: 00000000a4950000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -443,7 +443,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 7}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: a6880000
       m_LastClickedID: 0
-      m_ExpandedIDs: eafaffff
+      m_ExpandedIDs: 94faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -995,7 +995,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 12.120451, y: -2.8504705, z: 9.210295}
+    m_Target: {x: 35.741997, y: -22.410511, z: 17.575}
     speed: 2
     m_Value: {x: 12.120451, y: -2.8504705, z: 9.210295}
   m_RenderMode: 0
@@ -1043,11 +1043,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.1836331, y: 0.35554776, z: -0.07131422, w: 0.91358596}
+    m_Target: {x: 0.26954907, y: 0.40262598, z: -0.12526086, w: 0.8657122}
     speed: 2
-    m_Value: {x: 0.1837527, y: 0.3542017, z: -0.071043655, w: 0.9141821}
+    m_Value: {x: -0.1836331, y: -0.35554776, z: 0.07131422, w: -0.91358596}
   m_Size:
-    m_Target: 13.992253
+    m_Target: 26.999168
     speed: 2
     m_Value: 13.992253
   m_Ortho:
