@@ -323,7 +323,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials/AAAAAAAAAAAA City/AvenueAvenue
+    - Assets/Prefabs
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -333,16 +333,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials/AAAAAAAAAAAA City/AvenueAvenue
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\pinat\Uni Github Stuff\eng01vc\GDFUNDA-S11-Dump
+  m_LastProjectPath: D:\GitHub\GDFUNDA-S11-Dump
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 45.400024}
-    m_SelectedIDs: 10b40000
-    m_LastClickedID: 46096
-    m_ExpandedIDs: 
+    scrollPos: {x: 0, y: 41}
+    m_SelectedIDs: 44c90000
+    m_LastClickedID: 51524
+    m_ExpandedIDs: 0000000072820100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -371,7 +371,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 0000000072820100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -399,7 +399,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -519,7 +519,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: eafaffff
+      m_ExpandedIDs: a682f3ffba9cf3ffbc9cf3ffca9cf3ffd0b3f3ffd2b3f3ff94b4f3ff96b4f3ff7ebcf3ff80bcf3ff26bff3ff48bff3ff0cc9f4ffe4c9f4ffc0caf4ffcecbf4ff12cdf4ff48cdf4ff20cef4ff24cef4fffccef4ffacd0f4ff84d1f4ff88d1f4ff2ad2f4ff60d2f4ff96d2f4ff38d3f4ffa4d3f4ffdad3f4ff10d4f4ff46d4f4ff7cd4f4ffe8d4f4ffecd4f4ff58d5f4ff8ed5f4ffc4d5f4fffad5f4ff9cd6f4ff08d7f4ff3ed7f4ff74d7f4ffaad7f4ffe0d7f4ff4cd8f4ff50d8f4ffb0dbf4ffb4dbf4ffb8dbf4ff24dcf4ff1cdff4ff88dff4ffbedff4ff80e2f4ffece2f4ffe4e5f4ff14f0f4ff06fbf4ff22fcf4ff26fcf4ff8605f5ff8a05f5ffd606f5ffda06f5ffd609f5ff420af5ff780af5ffb20af5ffe80af5fffa0bf5ff300cf5ff420df5ffae0df5ff8a0ef5ffde1cf5ff4e1df5ff841df5ff961ef5ffcc1ef5ffde1ff5ff1420f5ff2621f5ffa022f5ffd622f5ff7823f5ffae23f5ffe423f5ff1a24f5ff5024f5ff8624f5ffbc24f5ffce25f5ff0426f5ff1627f5ff042ff5ff1630f5ff5a31f5ff5e31f5ff0032f5ff3632f5ff6c32f5ffa232f5ffd832f5ff0e33f5ffb033f5ffe633f5ff1c34f5ff5234f5ff8834f5ffbe34f5ff6035f5ff9635f5ffcc35f5ff0236f5ff3836f5ff6e36f5ff4637f5ff7c37f5ffb237f5ffe837f5ff1e38f5fff638f5ff2c39f5ff6239f5ff9839f5ffce39f5ff043af5ff083bf5ff3e3bf5ff743bf5ff783cf5ffae3cf5ff283ef5ff943ff5ff4e73f7ff6a75f7ffa075f7ffb276f7ffaa79f7ff167af7ff0e7df7ffbe7ef7ff6e80f7ff7280f7ff3e87f7ff349cf7ff749cf7ff44a5f7ff30a7f7ffa8a7f7ffaca7f7ff48aaf7ff4cabf7ff82abf7ff86abf7ffbcabf7fff2abf7fff6abf7ffc4aef7ff66aff7ffd6aff7ff42b0f7ff78b0f7ffaeb0f7ffe4b0f7ff1ab1f7ff1eb1f7ffc0b1f7ff62b2f7ff66b2f7ff9cb2f7ffaeb3f7ff3ac0f7ff78c9f7ffaec9f7ff24cef7ff28cef7ff3ad5f7ff00d8f7ff36d8f7ffb0d9f7ffe6d9f7ff60dbf7ff96dbf7ff10ddf7ffc0def7ff00e6f7ff5a5ef8ffaa9bf8ffc6cbf8ffd44ef9ff4e55f9ffcc56f9ffbacffaff6027fbff6427fbff84f3fbff8e01fcff1c42fcfff888fcff8290fcff9490fcffa69cfcffeaa1fcfff6a1fcff7ea5fcff96a5fcffa2d9fcffc8ecfcffbe0afdff3a0cfdffea25fdff702cfdff223ffdff009ffdff2aa8fdff74fefdff4250feff544efffff458ffffe672ffff5273ffff4a76ffffb284ffff3e87ffff4287ffff5e89ffffa68affffe892ffffd294ffff9e9bffffb0a7ffffd8a9ffff2caaffffb8abffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -969,9 +969,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -6.145287, y: 1.5268931, z: -3.2993336}
+    m_Target: {x: -2.516115, y: 1.4639316, z: -5.46467}
     speed: 2
-    m_Value: {x: -6.145287, y: 1.5268931, z: -3.2993336}
+    m_Value: {x: -2.516115, y: 1.4639316, z: -5.46467}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1004,7 +1004,7 @@ MonoBehaviour:
         m_Value: 0
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
       m_Pivot: {x: 0, y: 0, z: 0}
-      m_Size: {x: 0, y: 0}
+      m_Size: {x: 1, y: 1}
     zGrid:
       m_Fade:
         m_Target: 0
@@ -1017,13 +1017,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0999667, y: 0.8071059, z: -0.14296691, w: -0.5655014}
+    m_Target: {x: -0.18271987, y: 0.75181556, z: -0.2414472, w: -0.5877484}
     speed: 2
-    m_Value: {x: -0.0998846, y: 0.80644304, z: -0.14284949, w: -0.56503695}
+    m_Value: {x: -0.18250482, y: 0.75093067, z: -0.24116302, w: -0.58705664}
   m_Size:
-    m_Target: 1.3098739
+    m_Target: 3.812406
     speed: 2
-    m_Value: 1.3098739
+    m_Value: 3.812406
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1041,7 +1041,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
+  m_LastSceneViewRotation: {x: -0.032298453, y: 0.6638028, z: -0.03100677, w: -0.7479643}
   m_LastSceneViewOrtho: 0
   m_Viewpoint:
     m_SceneView: {fileID: 15}
