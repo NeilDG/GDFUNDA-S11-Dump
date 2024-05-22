@@ -8684,7 +8684,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4040449494243841502}
   m_Layer: 0
-  m_Name: Legaspi_PrefabCity
+  m_Name: Legaspi_City
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
