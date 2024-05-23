@@ -585,7 +585,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3165927744766719777}
   m_Layer: 0
-  m_Name: City part1
+  m_Name: AMAR_CITY_PART
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
