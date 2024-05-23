@@ -5450,7 +5450,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8586921472686071412}
   m_Layer: 0
-  m_Name: JanStreet
+  m_Name: jan_street
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
